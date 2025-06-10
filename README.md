@@ -1,4 +1,4 @@
-# Proyecto Demo - GitHub con HTML y CSS
+# Proyecto Demo - GitHub
 
 Este es un proyecto de demostración para aprender cómo subir código a GitHub y usar los comandos de Git.
 
